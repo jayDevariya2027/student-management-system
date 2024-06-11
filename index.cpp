@@ -173,7 +173,7 @@ void deleteStudent(vector<Student> &students) {
 
 int main() {
     vector<Student> students;
-    students.push_back(Student(1, "ali", 35));
+    students.push_back(Student(1, "jay", 1));
     char choice;
 
     do {
